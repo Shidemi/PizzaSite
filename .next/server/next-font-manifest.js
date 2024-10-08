@@ -1,1 +1,1 @@
-self.__NEXT_FONT_MANIFEST='{"pages":{},"app":{"/Users/admin/Documents/GitHub/PizzaSite/src/app/layout":["static/media/8a9e72331fecd08b-s.p.woff2"]},"appUsingSizeAdjust":true,"pagesUsingSizeAdjust":false}';
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/Users/admin/Documents/GitHub/PizzaSite/src/app/layout\":[\"static/media/8a9e72331fecd08b-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
